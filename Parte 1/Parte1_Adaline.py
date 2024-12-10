@@ -45,7 +45,7 @@ X = np.concatenate((
 
 #Modelo ADALINE:
 max_epoch = 10000
-pr = 1e-5
+pr = 1e-6
 lr = 0.00002
 
 
